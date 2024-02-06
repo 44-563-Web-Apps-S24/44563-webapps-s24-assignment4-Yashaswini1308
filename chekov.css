@@ -21,3 +21,22 @@ color: black;
 .POPOVA {
     color: blue;
 }
+
+.createdtable {
+    width: 90%;
+    border-collapse: collapse;
+    margin: bottom 15px; ;
+  }
+.createdtable th,table td {
+    border: 2px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+.createdtable th {
+    background-color: violet;
+  }
+.createdtable tr:nth-child(even) {
+    background-color: orange;
+  }
+
+  
