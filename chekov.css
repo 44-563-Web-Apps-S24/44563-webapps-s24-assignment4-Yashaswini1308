@@ -18,10 +18,15 @@ color: black;
     color: brown;
     
 }
+.LUKA:hover {
+  box-shadow: 0 0 8px rgba(0, 0, 255, 0.7);
+}
 .POPOVA {
     color: blue;
 }
-
+.POPOVA:hover {
+  box-shadow: 0 0 8px rgba(255, 165, 0, 0.7);
+}
 .createdtable {
     width: 90%;
     border-collapse: collapse;
